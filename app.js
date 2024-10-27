@@ -1,47 +1,29 @@
+let age = 17;
 
-// let studentName = "MahaM AbduL Razzaque";
-// let age = 17;
-// let major = "Commerce";
-// let college = "Degree fOr Women College Nazimabad";
+alert("I am  " + age + "  years Old :");
 
-// alert("Student Name : " + studentName);
-// alert("Age : " + age);
-// alert("Major : " + major);
-// alert("College : " + college);
+// EnD
 
-// EnD**************************************
+// Question samjh nhii Araha !!!
+//2. Declare & initialize a variable to keep track of how many times a visitor has visited a web page. Show his/her number of visits on your web page. For example: “You have visited this site N times”.
 
-// // Declare a variable and assign your message
-// let alertMessage = "Hello...!!! My Self MahaM AbduL Razzaque."; 
+// EnD
 
-// alert(alertMessage);
+// Declare a variable for birth year
+let birthYear = 2007;
 
-// EnD***************************************
+document.write("My Birth year is : " + birthYear , "<br>");
 
-// Declare a variable called email and assign your Email Address
-// let email = "mahamabdulrazzaque@gmail.com"; 
+// EnD
+"<br>"
 
-// let message = "My email address is : " + email;
+// Store visitor's information in variables
+let visitorName = "John Doe"; 
+let productTitle = "T-shirt";   
+let quantity = 10;         
 
-// alert(message);
+document.write(visitorName + " ordered " + quantity + " " + productTitle + "(s) on Bad Boy Outfitters Clothing store.");
 
-// EnD****************************************
-
-// Declare a variable called book and assign the value
-// let book = "A smarter way to learn JavaScript.";
-
-// let message = "I am trying tO learn frOm the bOok " + book;
-
-// alert(message);
-
-// EnD********************************************
-
-// alert("Yah..! I can write HTML content through JavaScript");
-
-// EnD********************************************
-
-// alert("🤍💁‍♀️✨💜");
-
-// EnD*********************************************
+// EnD
 
 
